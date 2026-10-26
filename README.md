@@ -38,7 +38,6 @@ This is an educational prototype, not a medical device or source of medical advi
 - `styles.css` — layout and visual design
 - `app.js` — local prompt generation, copy, download, and reset interactions
 - [PROMPTS.md](./PROMPTS.md) — prompt documentation and iterations
-- [VIDEO_SCRIPT.md](./VIDEO_SCRIPT.md) — presentation script designed for a 2–3 minute recording
 
 ## Project link
 
